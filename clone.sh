@@ -1,4 +1,4 @@
-git clone https://github.com/LineageOS/android_device_xiaomi_lancelot device/xiaomi/lancelot
+git clone https://github.com/acex69/device_xiaomi_lancelot-arrow device/xiaomi/lancelot
 git clone https://github.com/acex69/mt6768-common_fantastic device/xiaomi/mt6768-common
 git clone https://github.com/mt6768-dev/proprietary_vendor_xiaomi_lancelot vendor/xiaomi/lancelot
 git clone https://github.com/mt6768-dev/proprietary_vendor_xiaomi_mt6768-common vendor/xiaomi/mt6768-common
