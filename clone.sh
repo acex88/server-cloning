@@ -1,4 +1,4 @@
-git clone --depth 1 https://github.com/ProjectElixir-Devices/device_xiaomi_lancelot device/xiaomi/lancelot
+git clone --depth 1 https://github.com/acex88/android_device_xiaomi_lancelot device/xiaomi/lancelot
 git clone --depth 1 https://github.com/ProjectElixir-Devices/device_xiaomi_mt6768-common device/xiaomi/mt6768-common
 git clone --depth 1 https://github.com/ProjectElixir-Devices/proprietary_vendor_xiaomi_lancelot vendor/xiaomi/lancelot
 git clone --depth 1 https://github.com/ProjectElixir-Devices/proprietary_vendor_xiaomi_mt6768-common vendor/xiaomi/mt6768-common
